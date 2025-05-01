@@ -1,0 +1,1 @@
+An amalgamation of past work, this repository contains implementations and demo scripts for a variety of classic computer-vision and machine-learning algorithms, organized into standalone modules. Use these as reference implementations or starting points for your own projects.
